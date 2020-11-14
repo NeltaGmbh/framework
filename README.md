@@ -1,6 +1,6 @@
 # The initial release of version 0.1
 
-### *note:* This is not the stable version.
+> *note:* This is not the stable version.
 
 ## Components
 
