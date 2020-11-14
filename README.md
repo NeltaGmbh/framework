@@ -4,24 +4,24 @@
 
 ## Components
 
-[ ] Avatar
-[ ] Banner
-[ ] Breadcrumbs
-[ ] Button
-[ ] Checkbox
-[ ] Code Block
-[ ] Dropdown
-[ ] Flag
-[ ] Logo
-[ ] Modal dialog
-[ ] Pagination
-[ ] Progress indicator
-[ ] Progress tracker
-[ ] Radio
-[ ] Section Message
-[ ] Select
-[ ] Tabs
-[ ] Tag
-[ ] Text field
-[ ] Toggle
-[ ] Tooltip
+- Avatar
+- Breadcrumbs
+- Banner
+- Button
+- Checkbox
+- Code Block
+- Dropdown
+- Flag
+- Logo
+- Modal dialog
+- Pagination
+- Progress indicator
+- Progress tracker
+- Radio
+- Section Message
+- Select
+- Tabs
+- Tag
+- Text field
+- Toggle
+- Tooltip
