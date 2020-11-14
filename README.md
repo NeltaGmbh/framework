@@ -1,29 +1,27 @@
-# README #
+# The initial release of version 0.1
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### *note:* This is not the stable version.
 
-### What is this repository for? ###
+## Components
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+[ ] Avatar
+[ ] Banner
+[ ] Breadcrumbs
+[ ] Button
+[ ] Checkbox
+[ ] Code Block
+[ ] Dropdown
+[ ] Flag
+[ ] Logo
+[ ] Modal dialog
+[ ] Pagination
+[ ] Progress indicator
+[ ] Progress tracker
+[ ] Radio
+[ ] Section Message
+[ ] Select
+[ ] Tabs
+[ ] Tag
+[ ] Text field
+[ ] Toggle
+[ ] Tooltip
