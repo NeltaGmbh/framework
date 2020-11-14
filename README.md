@@ -4,7 +4,7 @@
 
 ## Components
 
-- Avatar
+- Avatari
 - Breadcrumbs
 - Banner
 - Button
