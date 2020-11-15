@@ -23,7 +23,7 @@ This component status reflects the state of our current UI components at Nelta.d
 
 The individual phases are not directly dependent on each other, the design part of documentation could be published before development.
 
-|   Component	|   [XD](https://img.icons8.com/color/48/000000/adobe-xd.png)	|   [SCSS](https://img.icons8.com/color/48/000000/sass-avatar.png)/[JS](https://img.icons8.com/color/48/000000/javascript.png)	|   [Docs](https://img.icons8.com/color/48/000000/new-document.png)	|
+|   Component	|   ![picture](https://img.icons8.com/ios/50/11173D/adobe-xd.png)	|   ![picture](https://img.icons8.com/ios-filled/50/11173D/sass.png)![picture](https://img.icons8.com/ios/50/11173D/javascript.png)	|   ![picture](https://img.icons8.com/wired/50/11173D/new-document.png)	|
 |---	|---	|---	|---	|---	|
 |Avatar |   Released	| Developing   | Released |
 |Banner |   Released	| Planned   | Released |
