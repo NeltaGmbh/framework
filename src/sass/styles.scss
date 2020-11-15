@@ -1,9 +1,16 @@
-/*
-    FOUNDATIONS
-*/
+// Foundation Start
 
-// Color
-@import 'foundation/color.scss';
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap'); // Lato Font
+@font-face {
+    font-family: "NexaBold",sans-serif;
+    src: url('../fonts/NexaBold.otf');
+}
+@font-face {
+    font-family: "NexaLight",sans-serif;
+    src: url('../fonts/NexaLight.otf');
+}
+@import 'foundation/color.scss';                        // Colors
+@import 'foundation/color-palette.scss';                // Color Palette
+@import 'foundation/typography.scss';                   // Typography
 
-// Color Palette
-@import 'foundation/color-palette.scss';
+// Foundation End
