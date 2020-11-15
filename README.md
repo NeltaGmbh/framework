@@ -47,6 +47,14 @@ The individual phases are not directly dependent on each other, the design part 
 |Tooltip |   Released	| Planned   | Planned | Released |
 
 
+## Foundation
+
+|   Component	|   ![picture](https://img.icons8.com/ios/30/11173D/adobe-xd.png)	|   ![picture](https://img.icons8.com/ios-filled/30/11173D/sass.png)|![picture](https://img.icons8.com/ios/30/11173D/javascript.png)	|   ![picture](https://img.icons8.com/wired/30/11173D/new-document.png)	|
+|---	|---	|---	|---	|---	|
+| Color | Released | Released | n/a | Released|
+| Color Palette | Released | Released | n/a | Released|
+| Typography | Released| Developing| n/a | Released |
+
 
 ## More information
 
