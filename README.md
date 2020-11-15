@@ -23,7 +23,7 @@ npm run build-production
 |---	|---	|---	|---	|---	|
 | Color | Released | Released | n/a | Released|
 | Color Palette | Released | Released | n/a | Released|
-| Typography | Released| Developing| n/a | Released |
+| Typography | Released| Released| n/a | Released |
 
 
 
