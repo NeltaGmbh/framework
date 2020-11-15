@@ -1,0 +1,43 @@
+// Blue Palette
+
+$blue-1 : #1C2445;
+$blue-2: #2A3564;
+$blue-3: #374683;
+$blue-4: #4557A2;
+$blue-5: #5268C1;
+$blue-6: #6079E0;
+$blue-7: #6D8AFF;
+
+
+// Yellow Palette
+
+$yellow-1: #E0FF43;
+$yellow-2: #CEEB3F;
+$yellow-3: #BCD63A;
+$yellow-4: #AAC236;
+$yellow-5: #97AD31;
+$yellow-6: #85992D;
+$yellow-7: #738428;
+
+
+// Neutral Palette
+$neutral-1: #051225;
+$neutral-2: #2D3848;
+$neutral-3: #555E6C;
+$neutral-4: #7E858F;
+$neutral-5: #A6ABB2;
+$neutral-6: #CED1D6;
+$neutral-7: #F6F7F9;
+
+
+/*
+    GRADIENTS
+*/
+
+// Blue - Linear gradient
+
+$gradient-blue: linear-gradient(90deg, $blue-1, $blue-7) !default;
+
+// Yellow - Linear gradient
+
+$gradient-yellow: linear-gradient(90deg, $yellow-1, $yellow-7) !default;
