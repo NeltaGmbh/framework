@@ -1,4 +1,4 @@
-$main-color: #11173D !default;           // Main Blue Color
+$main-blue: #11173D !default;           // Main Blue Color
 $main-yellow: #E0FF4F !default;          // Main Yellow Color
 $white: #FFFFFF !default;                // White Color
 $main-warning: #FABE47 !default;         // Main Warning Color
@@ -7,7 +7,7 @@ $main-success: #3CB08B !default;         // Main Success Color
 
 // Overwriting default
 
-$primary:       $main-color !default;       // Primary Color
+$primary:       $main-blue !default;       // Primary Color
 $secondary:     $main-yellow !default;      // Secondary Color
 $success:       $main-success !default;     // Success Color    
 $warning:       $main-warning !default;     // Warning Color
