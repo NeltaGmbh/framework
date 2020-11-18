@@ -1,0 +1,40 @@
+.banner-warning {
+    background: $main-warning;
+    padding: 17px 30px;
+    -webkit-box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    -moz-box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    color: $neutral-1;
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    p {
+        margin: 0;
+    }
+    ion-icon {
+        font-size: 20px;
+        margin-right: 20px;
+    }
+}
+
+// Banner Error
+.banner-error {
+    background: $main-danger;
+    padding: 17px 30px;
+    -webkit-box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    -moz-box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    color: $white;
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    p {
+        margin: 0;
+    }
+    ion-icon {
+        font-size: 20px;
+        margin-right: 20px;
+    }
+}

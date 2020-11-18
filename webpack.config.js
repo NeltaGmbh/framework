@@ -7,8 +7,8 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
         filename: 'bundle.js'
     },
-    mode: 'development',
-    watch: true,
+    mode: 'production',
+    // watch: true,
     module: {
         rules: [
             {
