@@ -1,3 +1,101 @@
 .avatar {
-    
+    display: inline-flex;
+    align-items: center;
+    .icon {
+        min-height: 48px;
+        min-width: 48px;
+        background: $blue-7;
+        border-radius: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: $white;
+        font-weight: 700;
+        font-size: 18px;
+        margin-right: 10px;
+        user-select: none;
+        img {
+            height: 49px;
+            width: 49px;
+            border-radius: 100%;
+        }
+    }
+    .name {
+        font-size: 1em;
+        color: $neutral-1;
+    }
+}
+
+// Avatar Small
+.avatar-small {
+    .icon {
+        min-height: 36px;
+        min-width: 36px;
+        background: $main-danger;
+        font-size: 15px;
+        font-weight: 300;
+        img {
+            height: 37px;
+            width: 37px;
+        }
+    }
+    .name {
+        font-size: 15px;
+    }
+}
+
+// Avatar Medium
+.avatar-medium {
+    .icon {
+        min-height: 64px;
+        min-width: 64px;
+        background: $main-success;
+        font-size: 24px;
+        font-weight: 300;
+        img {
+            width: 65px;
+            height: 65px;
+        }
+    }
+    .name {
+        font-size: 24px;
+    }
+
+}
+
+// Avatar Large
+.avatar-large {
+    .icon {
+        min-height: 80px;
+        min-width: 80px;
+        background: $main-warning;
+        font-size: 32px;
+        font-weight: 300;
+        img {
+            height: 81px;
+            width: 81px;
+        }
+    }
+    .name {
+        font-size: 32px;
+    }
+}
+
+// Avatar Huge
+.avatar-huge {
+    .icon {
+        min-height: 112px;
+        min-width: 112px;
+        background: $blue-7;
+        font-size: 46px;
+        font-weight: 300;
+        margin-right: 25px;
+        img {
+            width: 113px;
+            height: 113px;
+        }
+    }
+    .name {
+        font-size: 46px;
+    }
 }

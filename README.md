@@ -36,8 +36,8 @@ The individual phases are not directly dependent on each other, the design part 
 
 |   Component	|   ![picture](https://img.icons8.com/ios/30/11173D/adobe-xd.png)	|   ![picture](https://img.icons8.com/ios-filled/30/11173D/sass.png)|![picture](https://img.icons8.com/ios/30/11173D/javascript.png)	|   ![picture](https://img.icons8.com/wired/30/11173D/new-document.png)	|
 |---	|---	|---	|---	|---	|
-|Avatar |   Released	| Developing  | Developing   | Released |
-|Banner |   Released	| Planned  | Planned  | Released |
+|Avatar |   Released	| Released  | Released   | Released |
+|Banner |   Released	| Developing  | Developing  | Released |
 |Breadcrumbs |   Released	| Planned  | Planned  | Released |
 |Checkbox |   Released	| Planned  | Planned  | Released |
 |Code Block |   Released	| Planned   | Planned | Released |
