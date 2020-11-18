@@ -1,6 +1,6 @@
 {
-  "name": "nelta-frameworki",
-  "version": "0.0.1",
+  "name": "nelta-framework",
+  "version": "0.1.0",
   "description": "Nelta's framework",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,8 @@
   },
   "keywords": [
     "nelta",
-    "framework"
+    "framework",
+    "cdn"
   ],
   "author": "Argzon Haziraj",
   "license": "ISC",
