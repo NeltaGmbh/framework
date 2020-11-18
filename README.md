@@ -20,10 +20,10 @@ npm run build-production
 
 
 |   Component	|   ![picture](https://img.icons8.com/ios/30/11173D/adobe-xd.png)	|   ![picture](https://img.icons8.com/ios-filled/30/11173D/sass.png)|![picture](https://img.icons8.com/ios/30/11173D/javascript.png)	|   ![picture](https://img.icons8.com/wired/30/11173D/new-document.png)	|
-|---	|---	|---	|---	|---	|
-| Color | Released | Released | n/a | Released|
-| Color Palette | Released | Released | n/a | Released|
-| Typography | Released| Released| n/a | Released |
+|---	        |---	   |---	        |---	|---	    |
+| Color         | Released | Released   | n/a   | Released  |
+| Color Palette | Released | Released   | n/a   | Released  |
+| Typography    | Released | Released   | n/a   | Released  |
 
 
 
@@ -35,31 +35,31 @@ This component status reflects the state of our current UI components at Nelta.d
 The individual phases are not directly dependent on each other, the design part of documentation could be published before development.
 
 |   Component	|   ![picture](https://img.icons8.com/ios/30/11173D/adobe-xd.png)	|   ![picture](https://img.icons8.com/ios-filled/30/11173D/sass.png)|![picture](https://img.icons8.com/ios/30/11173D/javascript.png)	|   ![picture](https://img.icons8.com/wired/30/11173D/new-document.png)	|
-|---	|---	|---	|---	|---	|
-|Avatar |   Released	| Released  | Released   | Released |
-|Banner |   Released	| Developing  | Developing  | Released |
-|Breadcrumbs |   Released	| Planned  | Planned  | Released |
-|Checkbox |   Released	| Planned  | Planned  | Released |
-|Code Block |   Released	| Planned   | Planned | Released |
-|Dropdown |   Released	| Planned   | Planned | Released |
-|Flag |   Released	| Planned   | Planned | Released |
-|Logo |   Released	| Planned   | Planned | Released |
-|Modal dialog |   Released	| Planned   | Planned | Released |
-|Pagination |   Released	| Planned   | Planned | Released |
-|Progress indicator |   Released	| Planned  | Planned  | Released |
-|Progress tracker |   Released	| Planned   | Planned | Released |
-|Radio |   Released	| Planned   | Planned | Released |
-|Section Message |   Released	| Planned   | Planned | Released |
-|Select |   Released	| Planned   | Planned | Released |
-|Tabs |   Released	| Planned   | Planned | Released |
-|Tag |   Released	| Planned   | Planned | Released |
-|Text field |   Released	| Planned   | Planned | Released |
-|Toggle |   Released	| Planned   | Planned | Released |
-|Tooltip |   Released	| Planned   | Planned | Released |
+|---	            |---	        |---	       |---	   |---	      |
+|Avatar             |   Released	| Released     | n/a   | Released |
+|Banner             |   Released	| Released     | n/a   | Released |
+|Breadcrumbs        |   Released	| Developing   | n/a   | Released |
+|Checkbox           |   Released	| Developing   | n/a   | Released |
+|Code Block         |   Released	| Developing   | n/a   | Released |
+|Dropdown           |   Released	| Developing   | n/a   | Released |
+|Flag               |   Released	| Developing   | n/a   | Released |
+|Logo               |   Released	| Developing   | n/a   | Released |
+|Modal dialog       |   Released	| Developing   | n/a   | Released |
+|Pagination         |   Released	| Developing   | n/a   | Released |
+|Progress indicator |   Released	| Developing   | n/a   | Released |
+|Progress tracker   |   Released	| Developing   | n/a   | Released |
+|Radio              |   Released	| Developing   | n/a   | Released |
+|Section Message    |   Released	| Developing   | n/a   | Released |
+|Select             |   Released	| Developing   | n/a   | Released |
+|Tabs               |   Released	| Developing   | n/a   | Released |
+|Tag                |   Released	| Developing   | n/a   | Released |
+|Text field         |   Released	| Developing   | n/a   | Released |
+|Toggle             |   Released	| Developing   | n/a   | Released |
+|Tooltip            |   Released	| Developing   | n/a   | Released |
 
 
 ## More information
 
 Please check our [Design System](http://design.nelta.de) to learn more about our Components how to use and other things in our Design System.
 
-Last update: 15th November, 2020
+Last update: 18th November, 2020
