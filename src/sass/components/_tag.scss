@@ -1,0 +1,64 @@
+.tag {
+    .item {
+        padding: 8px 14px;
+        background: $neutral-7;
+        font-size: 10px;
+        color: $neutral-1;
+        display: inline-block;
+        margin: 0px 8px;
+    }
+
+    // Small
+    .small {
+        font-size: 8px;
+    }
+
+    // Medium
+    .medium {
+        font-size: 14px;
+    }
+
+    // Large
+    .large {
+        font-size: 16px;
+    }
+
+    // Rounded
+    .rounded {
+        border-radius: 20px!important;
+    }
+
+    // Backgrounded colors
+    .primary,
+    .success,
+    .error,
+    .info,
+    .warning {
+        color: $white;
+    }
+
+    // Primary
+    .primary {
+        background: $main-blue;
+    }
+
+    // Success
+    .success {
+        background: $main-success;
+    }
+
+    // Danger
+    .error {
+        background: $main-danger;
+    }
+
+    // Info
+    .info {
+        background: $blue-7;
+    }
+
+    // Warning
+    .warning {
+        background: $main-warning;
+    }
+}
