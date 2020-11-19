@@ -52,7 +52,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Section Message    |   Released	| Developing   | n/a   | Released |
 |Select             |   Released	| Developing   | n/a   | Released |
 |Tabs               |   Released	| Developing   | n/a   | Released |
-|Tag                |   Released	| Developing   | n/a   | Released |
+|Tag                |   Released	| Released     | n/a   | Released |
 |Text field         |   Released	| Developing   | n/a   | Released |
 |Toggle             |   Released	| Developing   | n/a   | Released |
 |Tooltip            |   Released	| Developing   | n/a   | Released |
