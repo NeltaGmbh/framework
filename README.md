@@ -46,8 +46,8 @@ The individual phases are not directly dependent on each other, the design part 
 |Logo               |   Released	| Developing   | n/a   | Released |
 |Modal dialog       |   Released	| Developing   | n/a   | Released |
 |Pagination         |   Released	| Developing   | n/a   | Released |
-|Progress indicator |   Released	| Released     | n/a   | Released |
-|Progress tracker   |   Released	| Released     | n/a   | Released |
+|Progress indicator |   Released	| On Hold      | n/a   | Released |
+|Progress tracker   |   Released	| On Hold      | n/a   | Released |
 |Radio              |   Released	| Developing   | n/a   | Released |
 |Section Message    |   Released	| Developing   | n/a   | Released |
 |Select             |   Released	| Developing   | n/a   | Released |
