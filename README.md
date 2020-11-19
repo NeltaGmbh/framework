@@ -40,14 +40,14 @@ The individual phases are not directly dependent on each other, the design part 
 |Banner             |   Released	| Released     | n/a   | Released |
 |Breadcrumbs        |   Released	| Developing   | n/a   | Released |
 |Checkbox           |   Released	| Developing   | n/a   | Released |
-|Code Block         |   Released	| Developing   | n/a   | Released |
+|Code Block         |   Released	| Released     | n/a   | Released |
 |Dropdown           |   Released	| Developing   | n/a   | Released |
 |Flag               |   Released	| Developing   | n/a   | Released |
 |Logo               |   Released	| Developing   | n/a   | Released |
 |Modal dialog       |   Released	| Developing   | n/a   | Released |
 |Pagination         |   Released	| Developing   | n/a   | Released |
-|Progress indicator |   Released	| Developing   | n/a   | Released |
-|Progress tracker   |   Released	| Developing   | n/a   | Released |
+|Progress indicator |   Released	| Released     | n/a   | Released |
+|Progress tracker   |   Released	| Released     | n/a   | Released |
 |Radio              |   Released	| Developing   | n/a   | Released |
 |Section Message    |   Released	| Developing   | n/a   | Released |
 |Select             |   Released	| Developing   | n/a   | Released |
