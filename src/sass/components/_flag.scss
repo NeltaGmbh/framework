@@ -1,0 +1,80 @@
+// General
+.flag,
+.flag-info,
+.flag-warning,
+.flag-error,
+.flag-success {
+    -webkit-box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    -moz-box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    box-shadow: 1px 7px 13px 0px rgba(0,0,0,0.06);
+    padding: 17px 30px;
+    display: inline-flex;
+    width: 500px;
+    justify-content: left;
+    align-items: center;
+    p {
+        margin: 0;
+    }
+    ion-icon {
+        font-size: 20px;
+        margin-right: 20px;
+    }
+}
+
+
+// Default
+.flag {
+    background: $white;
+    color: $neutral-1;
+    ion-icon {
+        color: $main-success;
+    }
+}
+
+// Information
+.flag-info {
+    background: $neutral-3;
+    color: $white;
+    ion-icon {
+        color: $white;
+    }
+}
+
+// Warning
+.flag-warning {
+    background: $main-warning;
+    color: $neutral-1;
+    ion-icon {
+        color: $neutral-1;
+    }
+}
+
+// Error
+.flag-error {
+    background: $main-danger;
+    color: $white;
+    ion-icon {
+        color: $white;
+    }
+}
+
+// Success
+.flag-success {
+    background: $main-success;
+    color: $white;
+    ion-icon {
+        color: $white;
+    }
+}
+
+// Responsive
+
+@media only screen and (max-width: 540px) {
+    .flag,
+    .flag-info,
+    .flag-warning,
+    .flag-error,
+    .flag-success {
+        width: 100%;
+    }
+}
