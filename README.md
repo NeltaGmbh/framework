@@ -38,7 +38,7 @@ The individual phases are not directly dependent on each other, the design part 
 |---	            |---	        |---	       |---	   |---	      |
 |Avatar             |   Released	| Released     | n/a   | Released |
 |Banner             |   Released	| Released     | n/a   | Released |
-|Breadcrumbs        |   Released	| Developing   | n/a   | Released |
+|Breadcrumbs        |   Released	| Released     | n/a   | Released |
 |Checkbox           |   Released	| Developing   | n/a   | Released |
 |Code Block         |   Released	| Released     | n/a   | Released |
 |Dropdown           |   Released	| Developing   | n/a   | Released |
