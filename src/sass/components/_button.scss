@@ -1,0 +1,66 @@
+.btn {
+    border-radius: 0;
+    border: 0;
+}
+
+// Primary
+.btn-primary {
+    background: $main-blue;
+    &:hover {
+        background: $blue-2 !important;
+    }
+    &:active, &:focus {
+        background: $blue-3 !important;
+        box-shadow: 0 0 0 0.2rem rgba(28, 36, 69, 0.5);
+    }
+}
+
+// Secondary
+.btn-secondary {
+    background: transparent;
+    box-shadow:inset 0px 0px 0px 2px $main-blue;
+    color: $main-blue;
+    &:hover {
+        background: $main-blue !important;
+    }
+    &:active, &:focus {
+        background: $main-blue !important;
+        box-shadow: 0 0 0 0.2rem rgba(28, 36, 69, 0.5);
+    }
+}
+
+// Success
+.btn-success {
+    background: $main-success;
+    &:hover {
+        background: rgb(67, 201, 158) !important;
+    }
+    &:active, &:focus {
+        background: rgb(67, 201, 158) !important;
+        box-shadow: 0 0 0 0.2rem rgba(60, 176, 139, 0.5);
+    }
+}
+
+// Danger
+.btn-danger {
+    background: $main-danger;
+    &:hover {
+        background: rgb(235, 100, 113) !important;
+    }
+    &:active, &:focus {
+        background: rgb(235, 100, 113) !important;
+        box-shadow: 0 0 0 0.2rem rgba(244, 85, 100, 0.5);
+    }
+}
+
+// Warning
+.btn-warning {
+    background: $main-warning;
+    &:hover {
+        background: rgb(236, 191, 99) !important;
+    }
+    &:active, &:focus {
+        background: rgb(236, 191, 99) !important;
+        box-shadow: 0 0 0 0.2rem rgba(250, 190, 71, 0.5);
+    }
+}
