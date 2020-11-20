@@ -1,0 +1,14 @@
+.breadcrumb {
+    padding: 1rem 2rem;
+    .breadcrumb-item {
+        a {
+            color: $blue-3;
+        }
+        &:before {
+            color: $neutral-5;
+        }
+    }
+    .active {
+        color: $neutral-5;
+    }
+}
