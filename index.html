@@ -11,26 +11,29 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-12">
-                <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                      <li class="breadcrumb-item active" aria-current="page">Home</li>
-                    </ol>
-                  </nav>
-                  
-                  <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                      <li class="breadcrumb-item"><a href="#">Home</a></li>
-                      <li class="breadcrumb-item active" aria-current="page">News</li>
-                    </ol>
-                  </nav>
-                  
-                  <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                      <li class="breadcrumb-item"><a href="#">Home</a></li>
-                      <li class="breadcrumb-item"><a href="#">News</a></li>
-                      <li class="breadcrumb-item active" aria-current="page">Wie wir trotz Covid-19 weitermachen</li>
-                    </ol>
-                  </nav>
+                <div class="custom-control custom-radio">
+                    <input type="radio" id="customRadio1" name="customRadio" class="custom-control-input">
+                    <label class="custom-control-label" for="customRadio1">Unselected</label>
+                  </div>
+                  <div class="custom-control custom-radio">
+                    <input type="radio" id="customRadio2" name="customRadio" class="custom-control-input" checked>
+                    <label class="custom-control-label" for="customRadio2">Selected</label>
+                  </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="custom-control custom-radio">
+                    <input type="radio" id="customCheckDisabled1" name="disabledNone" class="custom-control-input" disabled>
+                    <label class="custom-control-label" for="customCheckDisabled1">Disabled Unselected</label>
+                  </div>
+                  <div class="custom-control custom-radio">
+                    <input type="radio" id="customCheckDisabled2" name="disabledSelected" class="custom-control-input" disabled checked>
+                    <label class="custom-control-label" for="customCheckDisabled2">Disabled Selected</label>
+                  </div>
             </div>
         </div>
     </div>
