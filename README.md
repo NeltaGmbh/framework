@@ -40,7 +40,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Banner             |   Released	| Released     | n/a   | Released |
 |Breadcrumbs        |   Released	| Released     | n/a   | Released |
 |Button             |   Released	| Developing   | n/a   | Released |
-|Checkbox           |   Released	| Developing   | n/a   | Released |
+|Checkbox           |   Released	| Released     | n/a   | Released |
 |Code Block         |   Released	| Released     | n/a   | Released |
 |Dropdown           |   Released	| Developing   | n/a   | Released |
 |Flag               |   Released	| Released     | n/a   | Released |
