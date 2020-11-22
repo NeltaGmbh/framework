@@ -1,0 +1,70 @@
+// Pagination Filled
+
+.pagination-filled {
+  display: inline-flex;
+  list-style: none;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  li {
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+    a {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 50px;
+      width: 50px;
+      background: $main-blue;
+      color: $neutral-7;
+      border-radius: 100%;
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      user-select: none;
+      &:hover {
+        background: $blue-6;
+        transition: all 0.2s ease;
+      }
+    }
+  }
+}
+
+// Pagination Square Active
+
+.pagination-square-active {
+  display: inline-flex;
+  list-style: none;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  li {
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+    a {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 50px;
+      width: 50px;
+      color: $main-blue;
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      user-select: none;
+      &:hover {
+        background: $blue-3;
+        transition: all 0.2s ease;
+        color: $white;
+      }
+    }
+    .active {
+      background: $main-blue;
+      color: $white;
+    }
+  }
+}

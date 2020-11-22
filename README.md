@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Nelta's Framework
 
 Install all packages:
@@ -46,7 +47,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Flag               |   Released	| Released     | n/a   | Released |
 |Logo               |   Released	| Developing   | n/a   | Released |
 |Modal dialog       |   Released	| Developing   | n/a   | Released |
-|Pagination         |   Released	| Developing   | n/a   | Released |
+|Pagination         |   Released	| Released     | n/a   | Released |
 |Progress indicator |   Released	| On Hold      | n/a   | Released |
 |Progress tracker   |   Released	| On Hold      | n/a   | Released |
 |Radio              |   Released	| Released     | n/a   | Released |
@@ -64,3 +65,4 @@ The individual phases are not directly dependent on each other, the design part 
 Please check our [Design System](http://design.nelta.de) to learn more about our Components how to use and other things in our Design System.
 
 Last update: 22th November, 2020
+<!-- prettier-ignore-end -->
