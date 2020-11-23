@@ -54,7 +54,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Radio              |   Released	| Released     | n/a   | Released |
 |Section Message    |   Released	| Released     | n/a   | Released |
 |Select             |   Released	| Released     | n/a   | Released |
-|Tabs               |   Released	| Developing   | n/a   | Released |
+|Tabs               |   Released	| Released     | n/a   | Released |
 |Tag                |   Released	| Released     | n/a   | Released |
 |Text field         |   Released	| Released     | n/a   | Released |
 |Toggle             |   Released	| Released     | n/a   | Released |

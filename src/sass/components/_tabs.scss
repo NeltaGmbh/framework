@@ -1,0 +1,77 @@
+// Tabs Underline
+.tabs-underline {
+  border-bottom: 2px solid $neutral-6;
+  .nav-item {
+    position: relative;
+    bottom: -2px;
+    a {
+      color: $neutral-4;
+      font-size: 22px;
+      font-weight: 700;
+      &.active {
+        color: $blue-1;
+      }
+    }
+    .active {
+      border-bottom: 2px solid $blue-1;
+    }
+  }
+}
+
+// Tabs Filled
+.tabs-filled {
+  background: $neutral-6;
+  .nav-item {
+    a {
+      color: $neutral-4;
+      font-size: 22px;
+      font-weight: 700;
+      padding: 15px;
+      &.active {
+        color: $white;
+      }
+    }
+    .active {
+      background: $neutral-3;
+    }
+  }
+}
+
+// Tabs Filled Rounded
+.tabs-filled-rounded {
+  background: $neutral-6;
+  border-radius: 50px;
+  .nav-item {
+    a {
+      color: $neutral-4;
+      font-size: 22px;
+      font-weight: 700;
+      padding: 15px;
+      &.active {
+        color: $white;
+      }
+    }
+    .active {
+      background: $neutral-3;
+      border-radius: 50px;
+    }
+  }
+}
+
+// Tabs Active Only
+.tabs-activeonly {
+  .nav-item {
+    a {
+      color: $neutral-4;
+      font-size: 22px;
+      font-weight: 700;
+      padding: 15px;
+      &.active {
+        color: $white;
+      }
+    }
+    .active {
+      background: $neutral-3;
+    }
+  }
+}
