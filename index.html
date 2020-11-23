@@ -7,54 +7,75 @@
     <link rel="stylesheet" href="dist/bundle.css" />
   </head>
   <body>
-    <div class="container mt-5">
+    <div class="container">
       <div class="row">
         <div class="col-12">
-          <h3 class="mb-5">Filled</h3>
-          <nav aria-label="Page navigation example">
-            <ul class="pagination-filled">
-              <li>
-                <a href="#"
-                  ><ion-icon name="chevron-back-outline"></ion-icon
-                ></a>
-              </li>
-              <li><a href="#">1</a></li>
-              <li><a href="#">2</a></li>
-              <li><a href="#">3</a></li>
-              <li><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-              <li>
-                <a href="#"
-                  ><ion-icon name="chevron-forward-outline"></ion-icon
-                ></a>
-              </li>
-            </ul>
-          </nav>
+          <h3 class="mb-5">Section Message Info</h3>
+          <div class="sm-info">
+            <div class="header">
+              <ion-icon name="information-circle"></ion-icon>
+              <p class="title">Editing is restricted</p>
+            </div>
+            <div class="content">
+              <p>
+                You're not allowed to change these restrictions. It's either due
+                to the restrictions on the page, or permission settings for this
+                space.
+              </p>
+              <div class="actions">
+                <a href="#">Action 1</a>
+                <a href="#">Action 2</a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
+      <!-- Warning -->
       <div class="row">
         <div class="col-12">
-          <h3 class="mt-5 mb-5">Square Active</h3>
-          <nav aria-label="Page navigation example">
-            <ul class="pagination-square-active">
-              <li class="item">
-                <a href="#"
-                  ><ion-icon name="chevron-back-outline"></ion-icon
-                ></a>
-              </li>
-              <li><a class="active" href="#">1</a></li>
-              <li><a href="#">2</a></li>
-              <li><a href="#">3</a></li>
-              <li><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-              <li>
-                <a href="#"
-                  ><ion-icon name="chevron-forward-outline"></ion-icon
-                ></a>
-              </li>
-            </ul>
-          </nav>
+          <h3 class="mb-5 mt-5">Section Message Warning</h3>
+          <div class="sm-warning">
+            <div class="header">
+              <ion-icon name="warning"></ion-icon>
+              <p class="title">Cannot connect to the database</p>
+            </div>
+            <div class="content">
+              <p>We are unable to save any progress at this time.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Error -->
+      <div class="row">
+        <div class="col-12">
+          <h3 class="mb-5 mt-5">Section Message Error</h3>
+          <div class="sm-error">
+            <div class="header">
+              <ion-icon name="alert-circle"></ion-icon>
+              <p class="title">Connection lost</p>
+            </div>
+            <div class="content">
+              <p>You lost the connection with internet. Please try again!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Success -->
+      <div class="row">
+        <div class="col-12">
+          <h3 class="mb-5 mt-5">Section Message Success</h3>
+          <div class="sm-success">
+            <div class="header">
+              <ion-icon name="checkmark-circle"></ion-icon>
+              <p class="title">You email has been sent successfully!</p>
+            <!-- </div>
+            <div class="content">
+              <p>We are unable to save any progress at this time.</p>
+            </div> -->
+          </div>
         </div>
       </div>
     </div>

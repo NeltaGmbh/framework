@@ -52,7 +52,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Progress indicator |   Released	| On Hold      | n/a   | Released |
 |Progress tracker   |   Released	| On Hold      | n/a   | Released |
 |Radio              |   Released	| Released     | n/a   | Released |
-|Section Message    |   Released	| Developing   | n/a   | Released |
+|Section Message    |   Released	| Released     | n/a   | Released |
 |Select             |   Released	| Developing   | n/a   | Released |
 |Tabs               |   Released	| Developing   | n/a   | Released |
 |Tag                |   Released	| Released     | n/a   | Released |
