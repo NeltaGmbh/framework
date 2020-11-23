@@ -46,7 +46,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Code Block         |   Released	| Released     | n/a   | Released |
 |Dropdown           |   Released	| Released     | n/a   | Released |
 |Flag               |   Released	| Released     | n/a   | Released |
-|Logo               |   Released	| Developing   | n/a   | Released |
+|Logo               |   Released	| Released     | n/a   | Released |
 |Modal dialog       |   Released	| Released     | n/a   | Released |
 |Pagination         |   Released	| Released     | n/a   | Released |
 |Progress indicator |   Released	| On Hold      | n/a   | Released |
