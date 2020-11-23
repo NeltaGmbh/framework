@@ -1,6 +1,6 @@
 {
   "name": "nelta-framework",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Nelta's framework",
   "main": "index.js",
   "scripts": {
