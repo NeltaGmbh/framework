@@ -47,7 +47,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Dropdown           |   Released	| Released     | n/a   | Released |
 |Flag               |   Released	| Released     | n/a   | Released |
 |Logo               |   Released	| Developing   | n/a   | Released |
-|Modal dialog       |   Released	| Developing   | n/a   | Released |
+|Modal dialog       |   Released	| Released     | n/a   | Released |
 |Pagination         |   Released	| Released     | n/a   | Released |
 |Progress indicator |   Released	| On Hold      | n/a   | Released |
 |Progress tracker   |   Released	| On Hold      | n/a   | Released |
@@ -57,11 +57,11 @@ The individual phases are not directly dependent on each other, the design part 
 |Tabs               |   Released	| Developing   | n/a   | Released |
 |Tag                |   Released	| Released     | n/a   | Released |
 |Text field         |   Released	| Developing   | n/a   | Released |
-|Toggle             |   Released	| Developing   | n/a   | Released |
-|Tooltip            |   Released	| Developing   | n/a   | Released |
+|Toggle             |   Released	| Released     | n/a   | Released |
+|Tooltip            |   Released	| Released     | n/a   | Released |
 
 ## More information
 
 Please check our [Design System](http://design.nelta.de) to learn more about our Components how to use and other things in our Design System.
 
-Last update: 22th November, 2020
+Last update: 23th November, 2020
