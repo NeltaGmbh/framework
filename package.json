@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://Argzoni@bitbucket.org/nelta/framework.git"
+    "url": "git+https://github.com/NeltaGmbh/Framework"
   },
   "keywords": [
     "nelta",
@@ -33,7 +33,7 @@
   ],
   "author": "Argzon Haziraj",
   "license": "ISC",
-  "homepage": "http://design.nelta.de/",
+  "homepage": "https://ds.nelta.de/",
   "dependencies": {
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1",
