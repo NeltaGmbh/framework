@@ -27,6 +27,9 @@
     "type": "git",
     "url": "git+https://github.com/NeltaGmbh/Framework"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@argzon"
+  },
   "keywords": [
     "nelta",
     "framework"
