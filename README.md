@@ -66,4 +66,4 @@ The individual phases are not directly dependent on each other, the design part 
 
 Please check our [Design System](http://design.nelta.de) to learn more about our Components how to use and other things in our Design System.
 
-Last update: 23th November, 2020
+Last update: 22th January, 2021
