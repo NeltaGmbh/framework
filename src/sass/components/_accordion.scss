@@ -1,0 +1,25 @@
+.accordion {
+  button {
+    font-size: 35px !important;
+    padding: 0;
+    color: $main-blue;
+    font-weight: bold;
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      color: $blue-4;
+      text-decoration: none;
+    }
+  }
+  .card-header {
+    background: none;
+    border-bottom: none;
+  }
+  .card {
+    border: none;
+  }
+}
+
+.imgright {
+  display: block;
+}
