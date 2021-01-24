@@ -39,10 +39,10 @@ The individual phases are not directly dependent on each other, the design part 
 |   Component	|   ![picture](https://img.icons8.com/ios/30/11173D/adobe-xd.png)	|   ![picture](https://img.icons8.com/ios-filled/30/11173D/sass.png)|![picture](https://img.icons8.com/ios/30/11173D/javascript.png)	|   ![picture](https://img.icons8.com/wired/30/11173D/new-document.png)	|
 |---	            |---	        |---	       |---	   |---	      |
 |Avatar             |   Released	| Released     | n/a          | Released |
-|Accordion          |   Released	| Released     | Released     | Released  |
+|Accordion          |   Released	| Released     | Released     | Released |
 |Banner             |   Released	| Released     | n/a          | Released |
 |Breadcrumbs        |   Released	| Released     | n/a          | Released |
-|Button             |   Released	| Released     | n/a          | Writing  |
+|Button             |   Released	| Released     | n/a          | Released |
 |Cards              |   Released	| Released     | Released     | Released |
 |Checkbox           |   Released	| Released     | n/a          | Released |
 |Code Block         |   Released	| Released     | n/a          | Released |
@@ -58,7 +58,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Select             |   Released	| Released     | n/a          | Released |
 |Tabs               |   Released	| Released     | n/a          | Released |
 |Tag                |   Released	| Released     | n/a          | Released |
-|Text field         |   Released	| Released     | Released     | Writing  |
+|Text field         |   Released	| Released     | Released     | Released |
 |Toggle             |   Released	| Released     | n/a          | Released |
 |Tooltip            |   Released	| Released     | n/a          | Released |
 
