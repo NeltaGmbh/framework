@@ -43,7 +43,7 @@ The individual phases are not directly dependent on each other, the design part 
 |Banner             |   Released	| Released     | n/a          | Released |
 |Breadcrumbs        |   Released	| Released     | n/a          | Released |
 |Button             |   Released	| Released     | n/a          | Writing  |
-|Cards              |   Released	| Developing   | Developing   | Writing  |
+|Cards              |   Released	| Released     | Released     | Released |
 |Checkbox           |   Released	| Released     | n/a          | Released |
 |Code Block         |   Released	| Released     | n/a          | Released |
 |Dropdown           |   Released	| Released     | n/a          | Released |
@@ -66,4 +66,4 @@ The individual phases are not directly dependent on each other, the design part 
 
 Please check our [Design System](http://ds.nelta.de) to learn more about our Components how to use and other things in our Design System.
 
-Last update: 23rd January, 2021
+Last update: 24th January, 2021
